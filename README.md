@@ -24,9 +24,9 @@ It's perfect for MOCs (Maps of Content), dashboards, or daily notes where you ne
 2.  In the same folder as the script, create a new folder named `Batch Processing`.
 
 Your folder structure should look like this:
-/your-project-folder
+`/your-project-folder
 |-- obsidian_link_generator.py
-|-- /Batch Processing/
+|-- /Batch Processing/`
 
 The script will automatically create a `Generated Links` folder for you the first time you save a file.
 
