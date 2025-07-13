@@ -1,0 +1,2 @@
+# Obsidian Graph-Free Linking
+ A command-line utility to efficiently create graph-free, clickable Markdown links for your Obsidian vault. This tool is designed for Obsidian users who want to add navigational links within their notes without cluttering the graph view with connections that aren't conceptual.  It's perfect for MOCs (Maps of Content), dashboards, or daily notes where you need functional links to other notes, headings, or blocks, but don't want to create a visual dependency in the graph.
